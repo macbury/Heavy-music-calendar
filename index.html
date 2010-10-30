@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+   
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pl">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>index</title>
+	<script src="js/jquery-1.4.2.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="js/jquery-ui-1.8.5.custom.min.js" type="text/javascript" charset="utf-8"></script>
+	<link rel="stylesheet" href="css/trontastic/jquery-ui-1.8.5.custom.css" type="text/css" media="screen" title="no title" charset="utf-8" />
+	<script src="js/jquery.ui.datepicker-pl.js" type="text/javascript" charset="utf-8"></script>
+	<link rel="stylesheet" href="css/hm_calendar.css" type="text/css" media="screen" title="no title" charset="utf-8">
+	
+	<style type="text/css" media="screen">
+		body {
+			background: #fff url(http://heavymusic.pl/theme/images/bigbox_bg.jpg) repeat;
+			color: #A3A992;
+			font-family: Tahoma, Georgia;
+			font-size: 9pt;
+			line-height: 125%;
+			margin: 0px;
+		}
+	</style>
+	
+	<script src="js/calendar_controller.js" type="text/javascript" charset="utf-8"></script>
+	<script type="text/javascript" charset="utf-8">
+		$(document).ready(function () {
+			CalendarController.init();
+		});
+	</script>
+</head>
+<body>
+	<div id="HM_CALENDAR"></div>
+	<div id="HM_EVENT_DIALOG" title="Wydarzenia"></div>
+</body>
+</html>

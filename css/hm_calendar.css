@@ -1,0 +1,79 @@
+#HM_CALENDAR .ui-widget-content {
+	background: none;
+	border: 0;
+	
+}
+
+#HM_CALENDAR .ui-widget-header {
+	background: none;
+	color: #fff;
+	border: 0px;
+}
+
+#HM_CALENDAR .event a {
+	background: black;
+	border: 1px solid red;
+	color: red;
+}
+
+#HM_CALENDAR .event a.ui-state-active {
+	background: #4C4C4C !important;
+}
+
+#HM_CALENDAR .event.ui-datepicker-today a {
+	background: #F1FBE5 !important;
+}
+
+.HM_DIALOG {
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px; 
+	border-radius: 0px;
+	padding: 0;
+	border: 0;
+	background-image: url(http://heavymusic.pl/theme/images/bigbox_bg.jpg);
+	background-repeat: repeat;
+	border-bottom: 4px solid #0F0F0A;
+	border-right: 4px solid #0F0F0A;
+	border-top: 1px solid #0F0F0A;
+	border-left: 1px solid #0F0F0A;
+}
+
+.HM_DIALOG .ui-dialog-titlebar {
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px; 
+	border-radius: 0px;
+	border: 0px;
+	background-image: url(http://heavymusic.pl/theme/images/bigbox_top.jpg);
+	height: 25px;
+	color: #FFF !important;
+}
+
+.HM_EVENTS {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.HM_EVENTS li {
+	clear: both;
+	list-style: none;
+	padding: 5px 10px;
+	margin-bottom: 5px;
+}
+
+.HM_EVENTS li a {
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.HM_EVENTS li .date {
+	float: right;
+	padding: 3px;
+	background: #181C10;
+	color: #fff;
+	font-weight: bold;
+	font-size: 10px;
+	margin-top: -2px;
+}
+
+

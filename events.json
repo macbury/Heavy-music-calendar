@@ -1,0 +1,102 @@
+[
+	{
+		"url": "http://some.boring/url",
+		"name": "Some event 1",
+		"date": "2010-11-02",
+		"start_time": "19:30",
+		"end_time": "22:00",
+		"featured": true,
+		"location": "Klub Imbir"
+	},
+	{
+		"url": "http://some.boring/url",
+		"name": "Some event 2",
+		"date": "2010-11-02",
+		"start_time": "19:00",
+		"end_time": "23:00",
+		"featured": false,
+		"location": "Klub Imbir"
+	},
+	{
+		"url": "http://some.boring/url",
+		"name": "Some event 2",
+		"date": "2010-11-02",
+		"start_time": "19:00",
+		"end_time": "23:00",
+		"featured": false,
+		"location": "Klub Imbir"
+	},
+	{
+		"url": "http://some.boring/url",
+		"name": "Some event 3",
+		"date": "2010-11-02",
+		"start_time": "13:00",
+		"end_time": "16:00",
+		"featured": true,
+		"location": "Klub Imbir"
+	},
+	{
+		"url": "http://some.boring/url",
+		"name": "Some event",
+		"date": "2010-11-05",
+		"start_time": "20:30",
+		"end_time": "22:00",
+		"featured": false,
+		"location": "Kwadrat"
+	},
+	{
+		"url": "http://some.boring/url",
+		"name": "Some event",
+		"date": "2010-11-09",
+		"start_time": "19:30",
+		"end_time": "22:00",
+		"featured": true,
+		"location": "Rynek Główny"
+	},
+	{
+		"url": "http://some.boring/url",
+		"name": "Some event",
+		"date": "2010-11-12",
+		"start_time": "19:30",
+		"end_time": "22:00",
+		"featured": true,
+		"location": "Kwadrat"
+	},
+	{
+		"url": "http://some.boring/url",
+		"name": "Some event",
+		"date": "2010-11-22",
+		"start_time": "19:00",
+		"end_time": "23:00",
+		"featured": false,
+		"location": "Klub Imbir"
+		
+	},
+	{
+		"url": "http://some.boring/url",
+		"name": "Some event",
+		"date": "2010-11-26",
+		"start_time": "19:00",
+		"end_time": "23:00",
+		"featured": false,
+		"location": "Klub Imbir"
+	},
+	{
+		"url": "http://some.boring/url",
+		"name": "Some event",
+		"date": "2010-11-27",
+		"start_time": "19:00",
+		"end_time": "23:00",
+		"featured": false,
+		"location": "Klub Imbir"
+	},
+	{
+		"url": "http://some.boring/url",
+		"name": "Some event",
+		"date": "2010-11-28",
+		"start_time": "19:00",
+		"end_time": "23:00",
+		"featured": false,
+		"location": "Klub Imbir"
+	}
+]
